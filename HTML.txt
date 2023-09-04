@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>School Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<iframe id="video" src="https://www.youtube.com/watch?v=9Frow8HMh74"></iframe>
+
+<div class="container">
+    <h2 class="page-header" id="campus_life">Campus Life</h2>
+    <center>
+        <div class="travel_mainDiv"></div>
+        <img src="church.jpg">
+        <h4 class="text-capitalize"><kbd>School Church</kbd></h4>
+        <hr>
+        <h5 class="text-success text-capitalize">Was established in 1978</h5>
+        <p class="text-muted"> The school church is where students can go to learn about their faith and practice their religion.It can 
+            also be a source of support for students who are going through difficult times. They can provide a safe and supportive 
+            environment where students can talk about their problems and get help.
+        </p>
+      </center>
+</div>
+
+<br><br>
+
+    <center>
+        <div class="travel_mainDiv"></div>
+        <img src="st2.jpg">
+        <h4 class="text-capitalize"><kbd>School Library</kbd></h4>
+        <hr>
+        <h5 class="text-success text-capitalize">Was built in 1980</h5>
+        <p class="text-muted">The library is where students can go to access information and resources. They can be a physical building 
+            or a virtual space, and they can offer a variety of services.For example : Borrowing books, magazines, and other materials,
+            conducting research,getting help with homework and finding information on a variety of topics.
+        </p>
+      </center>
+</div>
+
+<center>
+    <div class="travel_mainDiv"></div>
+    <img src="st3.jpg">
+    <h4 class="text-capitalize"><kbd>School Auditorium</kbd></h4>
+    <hr>
+    <h5 class="text-success text-capitalize">Was built in 1982</h5>
+    <p class="text-muted">The auditorium is designed for school gatherings, presentations, plays and graduation ceremonies.They can also
+         be used for other events, such as conventions and class voting.It is vital role in the school. They provide a place for people
+          to gather, learn, and be entertained.
+        </p>
+  </center>
+
+<h2 class="page-header" id="achievements">School Achievements</h2>
+<div class="bg-primary movie_head" data-toggle="collapse" data-target="#school_achievement1">Inter School Debate On Environment Pollution<i class="fa fa-sort-desc"></i>
+</div>
+
+<div id="school_achievement1" class="collapse">
+    <div class="achievement_text">
+        <img src="se1.jpg" class="img-responsive img-thumbnail">
+        <h5 class="text-success text-capitalize">Won First Prize In The Inter School Debate About Environment Pollution
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+        </h5>
+        <p>The inter-school debate was a success, and it had a positive impact on both the students who participated and the school 
+            community as a whole. It was a great opportunity for students to learn about a controversial issue, to develop their critical 
+            thinking skills, and to hone their public speaking skills. It was also a great opportunity for students to come together and 
+            celebrate their school spirit.
+        </p>
+    </div>
+</div>
+
+<div class="bg-primary movie_head" data-toggle="collapse" data-target="#school_achievement2">Inter School Football Competition<i class="fa fa-sort-desc"></i>
+</div>
+
+<div id="school_achievement2" class="collapse">
+    <div class="achievement_text">
+        <img src="sm2.jpg" class="img-responsive img-thumbnail">
+        <h5 class="text-success text-capitalize">Came Second In Inter School Football Competition
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+        </h5>
+        <p>The final whistle blew, and the crowd erupted into cheers. The opposing team had won, but for the students of this school, 
+            coming second was still a victory for them.Even though they didn't win, they could hold their heads high. They had come a 
+            long way, and they had made their school proud. All were ecstatic with the team's performance this year.
+        </p>
+    </div>
+</div>
+
+<div class="bg-primary movie_head" data-toggle="collapse" data-target="#school_achievement3">Inter School Football Competition<i class="fa fa-sort-desc"></i>
+</div>
+
+<div id="school_achievement3" class="collapse">
+    
+    <div class="achievement_text">
+        <img src="sm3.jpg" class="img-responsive img-thumbnail">
+        <h5 class="text-success text-capitalize">Came Third In Inter School Science Project Competition
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+        </h5>
+        <p>The students' victory was a reminder that anything is possible if you set your mind to it. They were just a couple of students,
+             but they had a big idea and they were able to make it a reality. They were an inspiration to everyone who knew them, and they
+              showed that the future is bright for STEM education.
+            </p>
+    </div>
+    
+</div>
+
+<h2 class="page-header" id="new">What's New</h2>
+<ul class="list-group">
+    <li class="list-group-item list-group-item-success col-lg-12 col-md-12 col-sm-12 col-xs-12 environment_li">
+        <h4>New School Canteen</h4>
+        <img src="canteen.jpg" class="img-responsive col-lg-5 col-md-5 col-sm-5 col-xs-12">
+        <p class="list-group-item-text col-lg-7 col-md-7 col-sm-7 col-xs-12">
+            The school canteen sells food and drinks to students.And they provide a convenient way for students to eat or a drink during the school
+             day.The canteen food portion can vary in size and offerings depending on the request of the student, but they typically offer a variety
+              of food items, such as sandwiches, salads, fruits, snacks, and drinks. Sometimes the canteen also offer hot meals, such as pizza,
+              pasta, or soup. They are now offering more nutritious food options, such as fruits, vegetables, and whole grains. The canteen is also
+              now more affordable, so students can save money on their lunch or snack.
+            </p>
+    </li>
+
+</ul>
+
+<li class="list-group-item list-group-item-warning col-lg-12 col-md-12 col-sm-12 col-xs-12 environment_li">
+    <h4>Implemented Online Attendance Management System</h4>
+    <img src="attendance.jpg" class="img-responsive col-lg-5 col-md-5 col-sm-5 col-xs-12">
+    <p class="list-group-item-text col-lg-7 col-md-7 col-sm-7 col-xs-12">1.Accuracy-Humans are inclined to errors even with computational devices. 
+        Automated attendance systems however, are better at managing such as processing large amounts of data or performing repetitive tasks. 
+        This is because machines are not susceptible to fatigue or boredom, and they can perform these tasks at a much faster rate than humans.
+
+        2.Economics-Did you know that automated attendance systems can save costs? It can be programmed to be very efficient, which can help to 
+        reduce waste of materials and energy. This can save money on their operational costs. A study has shown that large organisations save up 
+        to 1600$ per employee after implamenting automated systems.
+
+        3.Productivity/Efficiency-Automated attendance systems are better at productivity and efficiency than humans in a number of ways.They can 
+        typically perform tasks much faster than humans. This is because they are not limited by factors such as fatigue, boredom, or the need to 
+        take breaks.Thay are also much more consistent than humans at performing tasks. This means that they can produce the same output every 
+        time, which is essential for many manufacturing and production processes.
+    </p>
+
+</li>
+
+<section id="contact">
+    <iframe src="https://www.google.com/maps/@19.1210068,72.9030175,15z?entry=ttu" height="450" frameborder="0" allowfullscreen=""></iframe>
+    <hr>
+    <img src="sp.png" class="img-responsive img-circle col-lg-3 col-md-3 col-sm-3 col-xs-4">
+    <h3>Principal Name: </h3>
+    <h4>Mr.Xavier John Dcosta</h4>
+    <div class="contact_1">
+        <a href="mailto:my@gmail.com?Subject=Hi">
+        <h5><i class="fa fa-envelope"></i>&nbsp;&nbsp;school@gmail.com</h5>
+    </a>
+
+        <a href="#">
+        <h5><i class="fa fa-instagram"></i>&nbsp;&nbsp;schoolid</h5>
+    </a>
+
+        <a href="#">
+        <h5><i class="fa fa-phone-square"></i>&nbsp;&nbsp;9916001600</h5>
+        </a>
+
+    </div>
+
+</section>
+
+</body>
+
+</html>
